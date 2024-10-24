@@ -4,9 +4,9 @@ Cursando [Tecnologia em Análise e Desenvolvimento de Sistemas na Facens](https:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauefelippet&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 ## Minhas Habilidades 
 ![Java](https://img.shields.io/badge/java-%23fe8019.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fabd2f?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
 ![Git](https://img.shields.io/badge/GIT-fe8019?style=for-the-badge&logo=git&logoColor=white)
 ## Conecte-se! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fe8019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-felippe-tiburcio/)
